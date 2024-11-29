@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=pro.wolfnord.SilicaTest
+Exec=/usr/bin/pro.wolfnord.SilicaTest
+Name=SilicaTest
+Name[ru]=Тестирование Силики
+
+[X-Application]
+Permissions=
+OrganizationName=pro.wolfnord
+ApplicationName=SilicaTest
+ExecDBus=/usr/bin/pro.wolfnord.SilicaTest
